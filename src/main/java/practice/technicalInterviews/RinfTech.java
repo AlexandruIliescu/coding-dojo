@@ -30,5 +30,5 @@ public class RinfTech {
         return countString;
     }
 }
-//input 2 string-uri
-//output un int cu nr. de caractere de sters a.i. cele 2 string-uri sa fie anagrame
+//2 strings as input
+//output should be an int representing the number of characters that should be deleted so those 2 strings to be anagrams
