@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/01.Work projects/LicenseManagementRoot/license-management-central/business-layer-central/src/main/java/com/cgm/authentication/impl/AuthenticationManagerImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/01.Work projects/LicenseManagementRoot/license-management-central/business-layer-central/src/main/java/com/cgm/license/impl/LicenseManagerImplV4.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/01.Work projects/LicenseManagementRoot/license-management-central/business-layer-central/src/main/java/com/cgm/license/impl/LicenseTemplateManagerImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/01.Work projects/LicenseManagementRoot/license-management-central/business-layer-central/src/main/java/com/cgm/user/impl/UserManagerImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/01.Work projects/LicenseManagementRoot/license-management-central/business-layer-central/src/main/java/com/cgm/util/ManagerUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/01.Work projects/LicenseManagementRoot/license-management-central/presentation-layer-central/src/main/java/com/cgm/exception/GlobalExceptionHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/01.Work projects/LicenseManagementRoot/license-management-central/presentation-layer-central/src/main/java/com/cgm/v4/authentication/AuthenticationControllerV4.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/01.Work projects/LicenseManagementRoot/license-management-central/presentation-layer-central/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/01.Work projects/LicenseManagementRoot/license-management-central/presentation-layer-central/src/test/java/com/cgm/user/AuthenticationControllerIntegrationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/01.Work projects/LicenseManagementRoot/license-management-central/repository-layer-central/src/main/resources/persistence-online.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/01.Work projects/LicenseManagementRoot/license-management-common/data-model/src/main/java/com/cgm/model/util/ApplicationConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/codingDojo.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/codeForces/Animals.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/codeForces/antonAndDanik/AntonAndDanik.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/codeForces/bearAndBigBrother/BearAndBigBrother.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/codeForces/hulk/Hulk.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/codeForces/ilyaAndQueries/IlyaAndQueries.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/codeForces/wordCapitalization/WordCapitalization.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/codeForces/wrongSubtraction/WrongSubtraction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/codingDojo/fizzBuzz/FizzBuzz.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/fizzBuzz/FizzBuzz.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/FizzBuzzTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
