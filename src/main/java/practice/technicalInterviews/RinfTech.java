@@ -5,10 +5,10 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class RTech {
+public class RinfTech {
 
     public static void main(String[] args) {
-        RTech test = new RTech();
+        RinfTech test = new RinfTech();
         Scanner scanner = new Scanner(System.in);
         System.out.println(test.formatString(scanner.next(), scanner.next()));
     }
