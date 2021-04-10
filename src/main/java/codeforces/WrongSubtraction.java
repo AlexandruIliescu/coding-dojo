@@ -1,4 +1,4 @@
-package codeForces;
+package codeforces;
 
 import static java.lang.Integer.parseInt;
 
