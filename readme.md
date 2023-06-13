@@ -1,6 +1,6 @@
 # Coding Dojo Repository
 
-This repository is dedicated to my relentless pursuit of sharpening my programming skills, specifically in Java. It houses my solutions and explorations across a variety of coding platforms such as Codeforces, Codewars, and LeetCode. The main focus here is to practice and perfect my problem-solving abilities.
+This repository is dedicated to my relentless pursuit of sharpening my programming skills, specifically in Java. It houses my solutions and explorations across a variety of coding platforms such as Codeforces, Codewars, and LeetCode. The main focus here is to practice and perfect problem-solving abilities.
 
 In addition to solving problems, I am also deeply interested in freestyle coding and revisiting key programming principles. This involves revisiting and mastering various principles from Clean Code, such as:
 
@@ -18,12 +18,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Please ensure you have the latest version of Java and a Java IDE (preferably IntelliJ IDEA or Eclipse).
+Please ensure you have the latest version of Java and a Java IDE (preferably IntelliJ IDEA).
 
 ### Installation
 
 1. Clone the repository (git clone https://github.com/yourusername/coding-dojo.git).
-
 2. Open the project in your IDE.
 3. Run the programs.
 
