@@ -23,5 +23,15 @@ public class LongestCommonPrefix {
         }
         return s1.substring(0, index);
     }
+    /**Time complexity
+     * O(n * m * log(n))
+     * Sorting the strs array takes O(n * log(n)) time complexity.
+     * Finding the longest common prefix requires comparing characters
+     * from the first and last string, which takes O(m) time in the worst case.
+     *
+     * Space complexity
+     * Space used by two string variables s1 & s2 is proportional to the
+     * length of the longest string in the array => space complexity O(1)
+     */
 }
 //https://leetcode.com/problems/longest-common-prefix/
