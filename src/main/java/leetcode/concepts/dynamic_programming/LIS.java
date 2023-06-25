@@ -1,4 +1,4 @@
-package leetcode.dynamic_programming;
+package leetcode.concepts.dynamic_programming;
 
 /**
  * Longest Increasing Subsequence (LIS)
