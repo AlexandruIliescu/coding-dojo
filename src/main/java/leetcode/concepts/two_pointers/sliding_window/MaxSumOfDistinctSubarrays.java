@@ -1,4 +1,4 @@
-package leetcode.concepts.sliding_window;
+package leetcode.concepts.two_pointers.sliding_window;
 
 public class MaxSumOfDistinctSubarrays {
 

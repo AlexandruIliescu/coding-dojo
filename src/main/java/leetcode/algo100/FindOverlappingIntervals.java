@@ -6,9 +6,9 @@ import java.util.List;
 public class FindOverlappingIntervals {
 
     public static void main(String[] args) {
-        int[][] arrays = { {3, 7}, {4, 9}, {12, 30} };
-        for(int[] array : mergeIntervals(arrays)) {
-            for(int value : array) {
+        int[][] arrays = {{3, 7}, {4, 9}, {12, 30}};
+        for (int[] array : mergeIntervals(arrays)) {
+            for (int value : array) {
                 System.out.println(value);
             }
         }

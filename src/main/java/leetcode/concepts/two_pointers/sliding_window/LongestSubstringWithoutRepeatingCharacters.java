@@ -1,4 +1,4 @@
-package leetcode.concepts.sliding_window;
+package leetcode.concepts.two_pointers.sliding_window;
 
 /**
  * The sliding window algorithm is a technique used to efficiently process subarrays or sublists
