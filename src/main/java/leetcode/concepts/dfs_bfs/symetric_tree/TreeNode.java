@@ -1,4 +1,4 @@
-package leetcode.concepts.dfs_bfs;
+package leetcode.concepts.dfs_bfs.symetric_tree;
 
 //Definition for a binary tree node
 public class TreeNode {

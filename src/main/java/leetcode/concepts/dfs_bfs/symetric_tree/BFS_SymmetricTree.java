@@ -1,4 +1,4 @@
-package leetcode.concepts.dfs_bfs;
+package leetcode.concepts.dfs_bfs.symetric_tree;
 
 
 import java.util.LinkedList;
