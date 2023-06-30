@@ -1,4 +1,6 @@
-package leetcode.concepts.dfs_bfs;
+package leetcode.concepts.dfs_bfs.dfs_traversal;
+
+import leetcode.concepts.dfs_bfs.Vertex;
 
 import java.util.Arrays;
 import java.util.Deque;
@@ -7,6 +9,7 @@ import java.util.LinkedList;
 public class DepthFirstSearch<T> {
 
     public static void main(String[] args) {
+        //directed graph
         Vertex<Integer> v0 = new Vertex<>(0);
         Vertex<Integer> v1 = new Vertex<>(1);
         Vertex<Integer> v2 = new Vertex<>(2);
@@ -21,16 +24,20 @@ public class DepthFirstSearch<T> {
         v6.setNeighbors(Arrays.asList(v0));
 
         DepthFirstSearch<Integer> dfs = new DepthFirstSearch<>();
-        dfs.traverse(v0);
+        dfs.iterativeTraverse(v0);
+//        dfs.traverseRecursively(v0);
     }
 
-    public void traverse(Vertex<T> startVertex) {
+    public void iterativeTraverse(Vertex<T> startVertex) {
         Deque<Vertex<T>> stack = new LinkedList<>();
         stack.push(startVertex);
 
         while (!stack.isEmpty()) {
             Vertex<T> current = stack.pop();
 
+            //due to the link between v0 and v6, without if
+            //we will have an infinite loop because they will
+            //continue to be added to the stack
             if (!current.isVisited()) {
                 current.setVisited(true);
                 System.out.println(current);
@@ -38,5 +45,16 @@ public class DepthFirstSearch<T> {
                 current.getNeighbors().forEach(stack::push);
             }
         }
+    }
+
+    public void recursiveTraverse(Vertex<T> vertex) {
+        vertex.setVisited(true);
+        System.out.println(vertex);
+
+        vertex.getNeighbors().forEach(neighbor -> {
+            if (!neighbor.isVisited()) {
+                recursiveTraverse(neighbor);
+            }
+        });
     }
 }
