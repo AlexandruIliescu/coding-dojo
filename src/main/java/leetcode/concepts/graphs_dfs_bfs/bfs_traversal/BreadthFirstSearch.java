@@ -1,6 +1,6 @@
-package leetcode.concepts.dfs_bfs.bfs_traversal;
+package leetcode.concepts.graphs_dfs_bfs.bfs_traversal;
 
-import leetcode.concepts.dfs_bfs.Vertex;
+import leetcode.concepts.graphs_dfs_bfs.Vertex;
 
 import java.util.Arrays;
 import java.util.LinkedList;

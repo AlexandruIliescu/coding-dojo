@@ -1,4 +1,4 @@
-package leetcode.concepts.dfs_bfs;
+package leetcode.concepts.graphs_dfs_bfs;
 
 import java.util.LinkedList;
 import java.util.PriorityQueue;

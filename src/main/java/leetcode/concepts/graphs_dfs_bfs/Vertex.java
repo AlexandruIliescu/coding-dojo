@@ -1,4 +1,4 @@
-package leetcode.concepts.dfs_bfs;
+package leetcode.concepts.graphs_dfs_bfs;
 
 import lombok.Data;
 import lombok.ToString;

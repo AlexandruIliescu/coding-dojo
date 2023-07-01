@@ -1,4 +1,4 @@
-package leetcode.concepts.dfs_bfs.dfs_course_schedule;
+package leetcode.concepts.graphs_dfs_bfs.dfs_course_schedule;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;
