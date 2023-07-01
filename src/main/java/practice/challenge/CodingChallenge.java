@@ -1,4 +1,4 @@
-package practice.technicalInterviews;
+package practice.challenge;
 
 import java.util.*;
 
@@ -7,7 +7,6 @@ public class CodingChallenge {
     public static void main(String[] args) {
         System.out.println("hello world!");
     }
-
 
     public static int getMinMoves(List<Integer> plates) {
         int n = plates.size();

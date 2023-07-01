@@ -1,14 +1,14 @@
-package practice.technicalInterviews;
+package practice.challenge;
 
 import java.util.Collection;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class RinfTech {
+public class CodingChallenge2 {
 
     public static void main(String[] args) {
-        RinfTech test = new RinfTech();
+        CodingChallenge2 test = new CodingChallenge2();
         Scanner scanner = new Scanner(System.in);
         System.out.println(test.formatString(scanner.next(), scanner.next()));
     }

@@ -1,4 +1,4 @@
-package amazon;
+package codingDojo;
 
 public class AddTwoNumbers {
 

@@ -1,4 +1,4 @@
-package amazon;
+package codingDojo;
 
 public class NumberOfIslands {
     //https://leetcode.com/problems/number-of-islands/
