@@ -1,4 +1,4 @@
-package practice.cleanCode;
+package practice.clean_code;
 
 public class ISP {
 }

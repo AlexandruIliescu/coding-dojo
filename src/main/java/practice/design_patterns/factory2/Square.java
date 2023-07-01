@@ -1,4 +1,4 @@
-package practice.designPatterns.factory2;
+package practice.design_patterns.factory2;
 
 public class Square implements Shape {
     @Override

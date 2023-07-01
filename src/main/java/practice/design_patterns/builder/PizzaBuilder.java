@@ -1,4 +1,4 @@
-package practice.designPatterns.builder;
+package practice.design_patterns.builder;
 
 public class PizzaBuilder {
     private Pizza pizza;

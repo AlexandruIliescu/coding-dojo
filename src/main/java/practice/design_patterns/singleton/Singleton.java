@@ -1,4 +1,4 @@
-package practice.designPatterns.singleton;
+package practice.design_patterns.singleton;
 
 public class Singleton {
     private static volatile Singleton instance;
