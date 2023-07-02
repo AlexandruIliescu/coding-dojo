@@ -30,5 +30,6 @@ public class CodingChallenge2 {
         return countString;
     }
 }
+
 //2 strings as input
 //output should be an int representing the number of characters that should be deleted so those 2 strings to be anagrams
