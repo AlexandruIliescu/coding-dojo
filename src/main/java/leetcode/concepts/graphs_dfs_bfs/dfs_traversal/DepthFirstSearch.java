@@ -1,10 +1,9 @@
 package leetcode.concepts.graphs_dfs_bfs.dfs_traversal;
 
 import leetcode.concepts.graphs_dfs_bfs.Vertex;
+import lombok.ToString;
 
-import java.util.Arrays;
-import java.util.Deque;
-import java.util.LinkedList;
+import java.util.*;
 
 public class DepthFirstSearch<T> {
 
@@ -58,3 +57,11 @@ public class DepthFirstSearch<T> {
         });
     }
 }
+
+//class Vertex<T> {
+//
+//    private final T data;
+//    private boolean visited;
+//    @ToString.Exclude
+//    private List<Vertex<T>> neighbors = new ArrayList<>();
+//}
