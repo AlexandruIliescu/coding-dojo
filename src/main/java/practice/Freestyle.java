@@ -9,7 +9,6 @@ public class Freestyle {
 
     public static void main(String[] args) {
         String name = "Maria";
-        //master
 
         Set<Integer> integers = new HashSet<>();
         integers.add(1);
