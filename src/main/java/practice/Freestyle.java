@@ -8,7 +8,8 @@ import java.util.Set;
 public class Freestyle {
 
     public static void main(String[] args) {
-        String name = "Maria";//comment added
+        String name = "Maria";
+        //test
 
         Set<Integer> integers = new HashSet<>();
         integers.add(1);
