@@ -1,4 +1,4 @@
-package codingDojo;
+package coding_dojo;
 
 import java.util.ArrayList;
 import java.util.HashSet;

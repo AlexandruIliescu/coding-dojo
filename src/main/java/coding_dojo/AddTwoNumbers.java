@@ -1,4 +1,4 @@
-package codingDojo;
+package coding_dojo;
 
 public class AddTwoNumbers {
 

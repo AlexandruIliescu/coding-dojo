@@ -1,4 +1,4 @@
-import static codingDojo.FizzBuzz.gameValue;
+import static coding_dojo.FizzBuzz.gameValue;
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.MatcherAssert.assertThat;
 

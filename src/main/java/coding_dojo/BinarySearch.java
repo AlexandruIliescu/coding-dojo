@@ -1,4 +1,4 @@
-package codingDojo;
+package coding_dojo;
 
 import java.util.Arrays;
 import java.util.HashMap;
